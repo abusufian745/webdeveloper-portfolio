@@ -41,3 +41,9 @@ nav li{
     list-style: none;
     margin-right: 50px;
 }
+
+/* header related style */
+
+.header{
+    background-color: #FFF8F3;
+}
